@@ -6,13 +6,16 @@
     width: 200px;
 }
 .cudlik {
-    margin-left: 800px;
-    margin-top: -100px;
-    width: 100px;
-    height: 100px;
+    margin-left: 700px;
+    margin-top: -50px;
     gap: 1px;
-    justify-content: center;
+    padding: 5px;
+    border-color: black;
 }
 .text {
-    margin-right: 500px;
+    margin-top: 10px;
+}
+.thumb {
+    height: 150px;
+    width: 100px;
 }
